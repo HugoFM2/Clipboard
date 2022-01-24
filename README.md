@@ -1,20 +1,23 @@
 # Como utilizar
-* Criar Ambiente virtual
+* Realizar apenas na 1a vez:
 
-  `python3 -m venv env`
-  
-* Ativar V.env
+  * Criar Ambiente virtual
 
-  `env\Scripts\activate`
+      `python3 -m venv env`
+  
+  * Ativar V.env
 
-* Instalar requeriments.txt
+      `env\Scripts\activate`
 
-  `pip install -r requirements.txt`
+  * Instalar requeriments.txt
+
+      `pip install -r requirements.txt`
   
+  * Editar o arquivo run.py com o seu IP, de preferencia estático
   
-* Executar o flask
+* Executar o programa
   
-  `python -m flask run --IP_COMPUTADOR `
+  `python run.py`
   
   
 Preferência para usar ip estático no computador
