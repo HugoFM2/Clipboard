@@ -1,3 +1,7 @@
+# Definição
+Programa em python/Shortcut do Ipad utilizado para passar a última área de Transferência do PC para o Ipad e vice-versa de forma facilitada.
+
+
 # Como utilizar
 * Realizar apenas na 1a vez:
 
